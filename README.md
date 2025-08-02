@@ -119,7 +119,7 @@ npm start
 | DELETE | `/api/jobs/:id`    | Delete a specific job       |
 
 ## Author
-[Nikhil Yadav](https://github.com/Nikhil-0010)
+SARANG ANUPAM 
 
 ***Thanks for reading***
 
